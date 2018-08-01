@@ -1,0 +1,1024 @@
+[
+    [
+        "C:\\Users\\Indra\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533107988480,
+            "changeTime": 1533107988480,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533107988480,
+            "changeTime": 1533107988480,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533113190189,
+            "changeTime": 1533113190189,
+            "contentHash": "2e85c865e9c07878c1204743f252627bb243ecf2"
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533110251968,
+            "changeTime": 1533110251968,
+            "contentHash": "67d822ca2207a222bc2801bf62dabcf939d8a585",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications\\standard__LightningBolt.app-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1533110251968,
+            "changeTime": 1533110251968,
+            "contentHash": "c5c172efb416c5962696508312020a159f95da21",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 1041,
+            "modifiedTime": 1533110251968,
+            "changeTime": 1533110251968,
+            "contentHash": "4e1c555e89ee6ac79ef1d86818bb828285e458c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1533108448038,
+            "changeTime": 1533108448038,
+            "contentHash": "37d0de57822d8df34c1c9fa6810e941885fb540d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1533108418811,
+            "changeTime": 1533108418811,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533113190204,
+            "changeTime": 1533113190204,
+            "contentHash": "f617ce545c0b58e16678677b7736c52f27fdf9cd"
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 697,
+            "modifiedTime": 1533110251937,
+            "changeTime": 1533110251937,
+            "contentHash": "18b25e21317d0870bcfa37943f98065da3924d20",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533110252046,
+            "changeTime": 1533110252046,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18106,
+            "modifiedTime": 1533110251999,
+            "changeTime": 1533110251999,
+            "contentHash": "a18c4c36a7426694ea048d0a2be95c835e520c9b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4689,
+            "modifiedTime": 1533110252031,
+            "changeTime": 1533110252031,
+            "contentHash": "ba0d595c7b633338be46047b7ba9e18d07f0981e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4689,
+            "modifiedTime": 1533110252015,
+            "changeTime": 1533110252015,
+            "contentHash": "ba0d595c7b633338be46047b7ba9e18d07f0981e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5027,
+            "modifiedTime": 1533110252046,
+            "changeTime": 1533110252046,
+            "contentHash": "58a60d5ca0cc83a17170636e8bf87d7bcb4e2f97",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533110251952,
+            "changeTime": 1533110251952,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1533110251952,
+            "changeTime": 1533110251952,
+            "contentHash": "8a02b9c19117c6de7db4d7cd58a4df51eabdd7b3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112034688,
+            "changeTime": 1533112034688,
+            "contentHash": "cb243b4483b61429d3dda5ddc1dbb4ed1ce5642a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057273,
+            "changeTime": 1533112057273,
+            "contentHash": "2f41b038d2435dfc98a2e74fe75379ad5734d2c3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057273,
+            "changeTime": 1533112057273,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057426,
+            "changeTime": 1533112057426,
+            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057310,
+            "changeTime": 1533112057310,
+            "contentHash": "2f23212b50a83c6f1bd3b906c82b2cbaaceee0ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057310,
+            "changeTime": 1533112057310,
+            "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1533112057310,
+            "changeTime": 1533112057310,
+            "contentHash": "fc2433a634f223435a01da80934238039f724b21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1533112057310,
+            "changeTime": 1533112057310,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+            "isDirectory": false,
+            "size": 917,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "6aabf819a1e1b796bfcdd5602e5d72994b00ac1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "67ed1f5733b1ce65f40dc2cd4dc35a8bd63a6b3c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+            "isDirectory": false,
+            "size": 5483,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "2e432c4f45ae25d2ffe0f8550edaa136ce33cd72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+            "isDirectory": false,
+            "size": 1298,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "1ab870c096696a3c08082e2416ed2b2f4ebbf4d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+            "isDirectory": false,
+            "size": 1021,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "cd1ea0dfa3cf906fdec342699622ed85ed00d1af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+            "isDirectory": false,
+            "size": 1085,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "bf9279ede7dc946bed67264287c14d6108974cf7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+            "isDirectory": false,
+            "size": 5924,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "84ba6ce9a3e20fbcb0e9f55545eb1e6d13bee40d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+            "isDirectory": false,
+            "size": 738,
+            "modifiedTime": 1533112057289,
+            "changeTime": 1533112057289,
+            "contentHash": "d665b7d29b11f2eb8c02b6373c06e47346705312",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057309,
+            "changeTime": 1533112057309,
+            "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+            "isDirectory": false,
+            "size": 832,
+            "modifiedTime": 1533112057304,
+            "changeTime": 1533112057304,
+            "contentHash": "fae52a427064a301ace9fc689e9cf859b1de43e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1533112057306,
+            "changeTime": 1533112057306,
+            "contentHash": "20374ea20c0da58fb533b70b688c82384c590c03",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1533112057307,
+            "changeTime": 1533112057307,
+            "contentHash": "82df0e7b416e9a9a797701c72b510d71d8909b80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+            "isDirectory": false,
+            "size": 2042,
+            "modifiedTime": 1533112057310,
+            "changeTime": 1533112057310,
+            "contentHash": "74d2133713841f14daa33d3c87fdeb29e09b4ca3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057426,
+            "changeTime": 1533112057426,
+            "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1533112057310,
+            "changeTime": 1533112057310,
+            "contentHash": "de1151d4a6d414d95b7bea943be4d2406363ff54",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1533112057315,
+            "changeTime": 1533112057315,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+            "isDirectory": false,
+            "size": 829,
+            "modifiedTime": 1533112057410,
+            "changeTime": 1533112057410,
+            "contentHash": "854a69c44213389336401c045649d80bd0cb59c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1533112057410,
+            "changeTime": 1533112057410,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+            "isDirectory": false,
+            "size": 1061,
+            "modifiedTime": 1533112057410,
+            "changeTime": 1533112057410,
+            "contentHash": "b948c3afe75b12d147b48bd2e22496000622a4ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1533112057410,
+            "changeTime": 1533112057410,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+            "isDirectory": false,
+            "size": 1143,
+            "modifiedTime": 1533112057410,
+            "changeTime": 1533112057410,
+            "contentHash": "648d69af87ee21de3e02c7927702ad1c425a60c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1533112057426,
+            "changeTime": 1533112057426,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057426,
+            "changeTime": 1533112057426,
+            "contentHash": "953a648bdddc5b63ac59255b53b662d2e89d3a89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1533112057426,
+            "changeTime": 1533112057426,
+            "contentHash": "a0ad435300a759ecf99cdd0add238f95edc395e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112057426,
+            "changeTime": 1533112057426,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+            "isDirectory": false,
+            "size": 242945,
+            "modifiedTime": 1533112057426,
+            "changeTime": 1533112057426,
+            "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Indra\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1533112057426,
+            "changeTime": 1533112057426,
+            "contentHash": "aa85ab19e7ac0f4c7ee86646e20a759ac6219897",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3921,
+            "modifiedTime": 1533113190189,
+            "changeTime": 1533113190189,
+            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7"
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1533113190204,
+            "changeTime": 1533113190204,
+            "contentHash": "8bc5012ee189f9c8f094b630555a860178670bd8"
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533113190189,
+            "changeTime": 1533113190189,
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
+        }
+    ],
+    [
+        "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Indra\\Demo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533113190189,
+            "changeTime": 1533113190189,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ]
+]
